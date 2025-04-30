@@ -1,2 +1,3 @@
-# Farma-Friend-
-The Farmer Friend An Intelligent Crop Recommendation System Depend on Soil Parameters
+# farma_friend
+
+A new Flutter project.
